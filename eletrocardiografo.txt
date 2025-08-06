@@ -1,0 +1,6 @@
+Arquivo extraído do Eletrocardiógrafo 
+
+Micromed   Wincardio USB
+
+Serial: 1340327
+
